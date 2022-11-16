@@ -1,2 +1,2 @@
 # RETAIL-SALES-PREDICTION
-regression in ML
+regression based project in machine learning
