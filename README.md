@@ -17,9 +17,17 @@ unique circumstances, the accuracy of results can be quite varied.
 ## Approaches
 
    1.Understanding the business problem and the datasets
+   
+   
    2.Data cleaning and preprocessing
-   3.Exploratory Data Analysis:
+   
+   
+   3.Exploratory Data Analysis
+   
+   
    4.Feature Manipulations on Data
+   
+   
    5.Modeling
 ## Results
 
