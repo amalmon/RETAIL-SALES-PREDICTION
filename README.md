@@ -14,6 +14,13 @@ including promotions, competition, school and state holidays, seasonality, and
 locality. With thousands of individual managers predicting sales based on their 
 unique circumstances, the accuracy of results can be quite varied.
 
+## Approaches
+
+   1.Understanding the business problem and the datasets
+   2.Data cleaning and preprocessing
+   3.Exploratory Data Analysis:
+   4.Feature Manipulations on Data
+   5.Modeling
 ## Results
 
 In a business’s point of view, these sales forecasts are done consistently to 
